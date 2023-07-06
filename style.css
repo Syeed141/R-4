@@ -1,0 +1,35 @@
+*{
+
+   background-color: rgb(8, 84, 84);
+}
+
+h1[id="a1"]{
+
+
+color:rgb(170, 189, 21);
+
+}
+
+h2{
+
+color:aqua
+
+}
+img[id="a2"] {
+
+    height: 200px;
+    width:180px;
+   
+}
+
+h3[id="a3"]{
+
+    color:rgb(213, 135, 40)
+}
+
+img[id="demo"]{
+
+height: 200px;
+width:200px ;
+
+}
